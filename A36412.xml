@@ -1,0 +1,241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The new Jerusalem at hand by the Lady Eleanor Douglas.</title>
+            <author>Eleanor, Lady, d. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36412</idno>
+            <idno type="STC">Wing D1997</idno>
+            <idno type="STC">ESTC R29372</idno>
+            <idno type="EEBO-CITATION">11081069</idno>
+            <idno type="OCLC">ocm 11081069</idno>
+            <idno type="VID">46299</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36412)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46299)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1422:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The new Jerusalem at hand by the Lady Eleanor Douglas.</title>
+                  <author>Eleanor, Lady, d. 1652.</author>
+               </titleStmt>
+               <extent>23 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Bound and filmed following D1996A.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Prophecies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46299:1" rendition="simple:additions"/>
+            <pb facs="tcp:46299:1"/>
+            <p>THE New Jeruſalem At Hand: By the Lady <hi>Eleanor Douglas,</hi> Daughter of Lo: <hi>Audeley,</hi> Lo: <hi>Touchet</hi> E. of <hi>Caſtlehaven.</hi>
+            </p>
+            <q xml:lang="frm">JE LE TIEN.</q>
+            <q>
+               <bibl>MAT. 28.</bibl>
+               <p>Behold, I am with you all days, until the conſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mm<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion of the age.</p>
+            </q>
+            <p>Printed in the Year 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="political-religious_tract">
+            <pb facs="tcp:46299:2"/>
+            <pb n="3" facs="tcp:46299:2"/>
+            <head>The Propheteſs of the moſt High, to all Nations and People, &amp;c.</head>
+            <p>SHewing in ſtead of a <hi>Charls</hi> the ſe<g ref="char:EOLhyphen"/>cond, gives ye the character of a ſecond <hi>Saul,</hi> even <hi>He and his for ever cut off,</hi> unto that giving place, that e<g ref="char:EOLhyphen"/>verlaſting, even proclaimed, <hi>The firſt and the laſt</hi> (to wit) Prophets the <hi>be<g ref="char:EOLhyphen"/>ginning and the ending, Jure Divino,</hi> afore Kings of the Earth: Certain in<g ref="char:EOLhyphen"/>ferences by, borrowed from dayes of old (<hi>Sam. cap.</hi> 10.) whoſe Reign con<g ref="char:EOLhyphen"/>firmed by that ominous token, witneſs of <hi>Rachels</hi> Sepulchre (as much to ſay) ſuch another he <hi>mourning and weeping alſo for his children, becauſe they were not,</hi> or not him to ſucceed, read in let<g ref="char:EOLhyphen"/>ters
+<pb n="3" facs="tcp:46299:3"/>of her Name, <hi>Rachels,</hi> otherwiſe rendred <hi>Charls;</hi> and thus running over the ſum of it.</p>
+            <p>To whom on this wiſe ſhewed <hi>cap.</hi> he when little in his own eyes, above the reſt how choſen to be a King ſo great, from <hi>tending on Aſſes, Scotlands</hi> former low Eſtate pointing thereto: &amp; ſo farther of <hi>Kings given in his wrath, in anger taken away:</hi> briefly thus, but re<g ref="char:EOLhyphen"/>ferred to the firſt of his Reign, <hi>Anno</hi> 1625. that heavy hand upon the City, an unparalleld Peſtilence, concluded with our three Kingdoms Diviſion; ſo that if ever all at their wits-end, now accompanying his departure, 23 of his bloody Reign; in making him King of <hi>Great Britain,</hi> evident the Lord re<g ref="char:EOLhyphen"/>penting himſelf much more, well ſer<g ref="char:EOLhyphen"/>ved for their Repining, whom <hi>No<g ref="char:EOLhyphen"/>thing
+<pb n="5" facs="tcp:46299:3"/>but a King would ſerve,</hi> who bleſt were above all Kingdoms; ſo in a vir<g ref="char:EOLhyphen"/>gin <hi>Queens</hi> renowned Reign: And for them ſo much, <hi>Firſt and laſt of their Name,</hi> both taſting of one ſharp cup, their Heads cut off, and faſtned their bodies in that maner to the wall, or nailed, &amp;c. as to the Story referred <hi>(Sam. &amp;c.)</hi> which had each three Sons: where this for another caſt up<g ref="char:EOLhyphen"/>on her, <hi>Thou ſon of the perverſe rebel<g ref="char:EOLhyphen"/>lious woman;</hi> whether in right apper<g ref="char:EOLhyphen"/>tains not to our Scotiſh <hi>Jonathan,</hi> by his Mothers means ſtript of his Royal means and Eſtate.</p>
+            <p>Paſsing over what between him paſſed and his ghoſtly Father or Con<g ref="char:EOLhyphen"/>feſſor, ſuppoſed to have been <hi>Samuels</hi> very Spirit, who fell all along both of them upon the earth ſore afraid, how
+<pb n="6" facs="tcp:46299:4"/>feigned or carried out, to make good the innocent blood ſpilt of ſuch mul<g ref="char:EOLhyphen"/>titudes of his people, who without queſtion as participated of <hi>Sauls</hi> fits, <hi>The evil Spirit from the Lord</hi> (to wit) the evil Counſel infuſed by the Cler<g ref="char:EOLhyphen"/>gy; ſo wanting neither in his Fathers Faith or Religion, ſpake truer then he wiſt, whoſe wanton Minion bewitcht with, neither repented hereof; One <hi>charged with the life of his Father,</hi> nor of his unmeaſureable Swearing, which amongſt them ſware <hi>By their ſaul,</hi> ſo long till verily conjured up his Spirit, that not a little boaſted of his King<g ref="char:EOLhyphen"/>craft, witneſs Familiar Spirits, witches of late, transferr'd from <hi>Scotland</hi> hi<g ref="char:EOLhyphen"/>ther: And as for that <hi>Agag,</hi> the delicate <hi>Buckinga<g ref="char:cmbAbbrStroke">̄</g>
+               </hi> how his mother made child<g ref="char:EOLhyphen"/>leſs,
+<pb n="7" facs="tcp:46299:4"/>ſhe author of his unhappineſs, ſhe inſnared by their <hi>Spaniſh</hi> junkets, can<g ref="char:EOLhyphen"/>not but adde this to the Reckoning of <hi>Phinehas</hi> ſpirit, how it hath acted on theſe twain, ſaying, <hi>Righteous art thou, O Lord, that haſt judged thus, Anno</hi> 1628. as when <hi>Buckingham</hi> his deadly wound had given him, by ſuch a one tranſported, &amp;c. ſo even <hi>Charls</hi> late King, 1648. at length paid home that heavy Stroke or Blow of his, aged Eight and forty, like <hi>The flying Rowl, in length twenty cubins,</hi> &amp;c. twenty years, which had given him to make his peace or repent him; and ſo much onely at this time commended to the Reader, with this contained in the Prophet <hi>Daniels</hi> confeſsion (neither have we hearkned, &amp;c. (<hi>Chapter</hi> 9. <hi>v.</hi> 6.) doubtleſs pointing to the peo<g ref="char:EOLhyphen"/>ple
+<pb n="8" facs="tcp:46299:5"/>of this land alike with dumb &amp; deaf ſpirits, &amp;c. together with his lame con<g ref="char:EOLhyphen"/>feſsion on the Scaffold, like blinde De<g ref="char:EOLhyphen"/>votions Leſſon, promiſed, <hi>That he ſhould ſay but very ſhort Prayers,</hi> who came not ſhort of it none at all ſaid that we hear of.</p>
+            <p>Nevertheleſs, unwilling to inſult over the worm or grave; as his hard lot, <hi>To morrow be thou with me,</hi> ſaid to <hi>Saul,</hi> ſo <hi>This day be thou with me in pa<g ref="char:EOLhyphen"/>radice;</hi> peradventure his pardon had folded up herein, which had not re<g ref="char:EOLhyphen"/>ceived in his life-time altogether <hi>thoſe good times others had,</hi> &amp;c. might at the laſt gaſp or minute repent: And ſo much for <hi>The Ax laid to the Root of the old Tree,</hi> in a Reign of 23 years, which produced no better fruit. And for the title ſet forth of the Keys of <hi>David</hi> be<g ref="char:EOLhyphen"/>longing to her, <hi>Rev.</hi> 1.7.</p>
+            <pb n="9" facs="tcp:46299:5"/>
+            <p> And as demonſtrates a ſecond <hi>Saul,</hi> ſo a ſecond <hi>Adam,</hi> he firſt of the Kings of the Earth, his immediate woful fall ſhadowing it forth.</p>
+            <p>VVitneſs ſhe ſubject <hi>(Heb.)</hi> cal<g ref="char:EOLhyphen"/>led <hi>Chavah</hi> or <hi>Eve:</hi> By whom had three Sons, where thus for her ſake rewarded (<hi>Gen.</hi> 3.) <hi>Even placed at the Eaſt a flaming Sword,</hi> &amp;c. turn<g ref="char:EOLhyphen"/>ing every way, droven out as it ſeems VVeſtward, from his Garden to the open Field, in their Leather liveries to encounter travel, juſtly reaping the fruits of accurſed mother Earth, war and ſtrife, the Thiſtle and Thorn, its emblem in ſtead of the O<g ref="char:EOLhyphen"/>live and Grape: All our days as ſtub<g ref="char:EOLhyphen"/>ble but a blaze, vaniſhed like a ſha<g ref="char:EOLhyphen"/>dow: The ſum or ſubſtance of which informing, formerly as he forbiden
+<pb n="10" facs="tcp:46299:6"/>expreſly the Tree of good and evil, notwithſtanding took thereof; ſo again, when as offered the Tree of life, <hi>its Leavs for healing the evil of the Nations,</hi> or Kings Evil; a like Treſpaſs or capital Crime guilty of, that rejects it, like Iudgements draws upon their heads: <hi>And therefore ſup<g ref="char:EOLhyphen"/>poſe not that thoſe Galileans were ſinners above the reſt, becauſe of late ſuffered,</hi> &amp;c. <hi>Nay, but except ye repent, ye all likewiſe ſhall periſh.</hi>
+            </p>
+            <p>And ſo from <hi>Saul</hi> and <hi>Doeg,</hi> deri<g ref="char:EOLhyphen"/>ving <hi>Douglaſe,</hi> here concluding as be<g ref="char:EOLhyphen"/>gan, how his bloody Houſe cut off, alſo even <hi>dyed for his tranſgreſsion a<g ref="char:EOLhyphen"/>gainſt the word of the Lord, &amp;c.</hi> and al<g ref="char:EOLhyphen"/>ſo for asking counſel of one that had a familiar Spirit, &amp; enquired not of the Lord (to wit) his Biſhops, &amp;c. whoſe
+<pb n="11" facs="tcp:46299:6"/>army how ſwarmed with VVitches, never the like heard in any Raign vi<g ref="char:EOLhyphen"/>ſited in that kind, wherwith ſhewing laſtly of the evil Spirit, when fell up<g ref="char:EOLhyphen"/>on him, how the good Spirit (at the very ſame time) reſted on another: The ſolitary Turtle-Dove as it were ſhut up, one of his own name (own<g ref="char:EOLhyphen"/>ed by King <hi>Iames,</hi> before the other of <hi>Stuart</hi>) and of his Age and Na<g ref="char:EOLhyphen"/>tion: Sir <hi>Archibald Douglaſe,</hi> the ſup<g ref="char:EOLhyphen"/>poſed Son of King <hi>Iames,</hi> the El<g ref="char:EOLhyphen"/>der Brother about a moneth, &amp;c. alſo wrote <hi>Anno Etatis, &amp;c.</hi> as by a Legacy of a thouſand pound <hi>per annum,</hi> out of his Crown-Lands ap<g ref="char:EOLhyphen"/>pointed for him; whereof though diſappointed or prevented by the ſaid K. unexpected death, yet of the better part could not be diſinherited,
+<pb n="12" facs="tcp:46299:7"/>then any three Crowns a greater bleſsing: The holy Spirits anointing apparent by his Letters hereto an<g ref="char:EOLhyphen"/>next, that not only in thoſe days were accounted to be diſtraction; but to this very day, even with Learned Doctor <hi>Sybald,</hi> fulfilling what honor Prophets receiue at home: By whoſe hand no few of theſe Manuſcripts were burnt: This mans writing who wrote ſo long ago. From the <hi>Hyſope Nicity,</hi> unto the Cedar Authority or Supremacy, converſing with no Books, but one the Book: Sir <hi>Archi<g ref="char:EOLhyphen"/>bald Douglas</hi> right Heir of the Earl<g ref="char:EOLhyphen"/>doms, howſoever of <hi>Morton</hi> and <hi>Douglas</hi> the doughty; likewiſe of perſon a choyce yong man, and a goodly, &amp;c. That Nations Captain by his Birth-right himſelf a Soldier
+<pb n="13" facs="tcp:46299:7"/>by profeſsion, in <hi>Spain</hi> and <hi>Germany</hi> no ordinary Commander, upon whom the firſt fruits of the Spirit came.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>
+                     <hi>Quaeres or Queſtions</hi> To Dr. <hi>James Sybald,</hi> Miniſter of <hi>Clerkenwel.</hi>
+                  </head>
+                  <p>ANd (whether) the very peril<g ref="char:EOLhyphen"/>lous time now, fulfilling what is written in <hi>Pauls</hi> ſecond Epiſtle to <hi>Timothy, Men ſhall be lovers of their own ſelves, more then of God,</hi> &amp;c. <hi>from ſuch turn away:</hi> And what is written in (<hi>Mark.</hi> 13.) <hi>Of the troubleſome laſt days: (ver.</hi> 10, 11.) Of which I will ſay no more, onely thus much: Had you demanded of me in how
+<pb n="14" facs="tcp:46299:8"/>many days, the change which I ſpeak of ſhould be, or known of what con<g ref="char:EOLhyphen"/>ſequence it is, ye would not ſo ſud<g ref="char:EOLhyphen"/>denly have indangered me, as to have ſpoken a word of me to that purpoſe, or where I was; when ye ſee what will be, and what ye have heard of me; even very ſhortly you will be aſhamed, and heartily ſorrow for your precipitate Opinion of me.</p>
+                  <p>Now conſidering that you are pre<g ref="char:EOLhyphen"/>paring to morrow in the Forenoon, on the uncertain Eaſter-day; Alſo to receive your part of the Paſſover, even kneeling at the Communion-Table; conſider theſe Texts, and pre<g ref="char:EOLhyphen"/>pare an anſwer to the ſame: <hi>Deut.</hi> 16. <hi>There thou ſhalt ſacrifice the paſſover at the evening, at the going down of the Sun, That thou mayeſt remember it all
+<pb n="15" facs="tcp:46299:8"/>the days of thy life:</hi> 1 Cor. 11. <hi>When ye come together therefore into one place; this is not to eat the Lords-Supper, for in eating every one taketh afore his own Supper, &amp;c.</hi> Iohn 13. <hi>and Supper being ended, &amp;c.</hi> Concerning which, tell me therefore in your Conſcience; is not the Lords-Supper in the Fore<g ref="char:EOLhyphen"/>noon a moſt Belly-god invention: Alſo the kneeling at the Com<g ref="char:EOLhyphen"/>munion Table doth not fulfil what is written in the firſt Epiſtle of <hi>Paul</hi> to the <hi>Corinthians, ver</hi> 20.8, 21. <hi>But I ſay, the things which the Gentiles ſacri<g ref="char:EOLhyphen"/>fice, they ſacrifice to devils, not to God; and I would not that you ſhould have communion with devils, &amp;c.</hi> Alſo is not the Title of Doctors a moſt pre<g ref="char:EOLhyphen"/>ſumptuous thing <hi>(Mat.) Which love the uppermoſt rooms and chief ſeats, and
+<pb n="16" facs="tcp:46299:9"/>to be called Rabbi, Rabbi,</hi> and Matth. 23 <hi>Neither be ye called maſters, &amp;c.</hi> As alſo the names of Saints, <hi>(Pſal.) When who knows how often he offends; much leſs knows the ſecret ſins of ano<g ref="char:EOLhyphen"/>ther:</hi> Alſo according to your Con<g ref="char:EOLhyphen"/>ſcience let me know your opinion of the Miniſterial Prieſts: Traditions hath not made the word of God of none effect, or to have no power, <hi>Mark</hi> 7. <hi>ver.</hi> 13. <hi>and many ſuch like things do ye.</hi>
+                  </p>
+                  <p>Alſo let me know what is their re<g ref="char:EOLhyphen"/>ward that do crouch and make cour<g ref="char:EOLhyphen"/>teſies to boards; when as it is written, Keep thy foot, or have a care thereof when thou goeſt into the Houſe of God; and be more ready to hear; then offer the ſacrifice of fools (to wit) leſt thou crouch and make a
+<pb n="17" facs="tcp:46299:9"/>crooked courteſie to a board, which was but a ſtock, even a block: what<g ref="char:EOLhyphen"/>ſoever it was, and whatſoever it is, and they worſe then a block that make a curſed courteſie to it, a beſot<g ref="char:EOLhyphen"/>ted beaſt and a devil (<hi>Sam.</hi> 28.) going even to the very Devil of Hell, with him <hi>who ſtooped with his face to the ground, bowing himſelf;</hi> likewiſe they try what reverence they can do unto him.</p>
+                  <p>And laſtly, what is the reward of addition and diminiſhing the word of God, <hi>Rev.</hi> 22. ſhewing, <hi>For I teſtifie, If any man ſhall add, God ſhall adde the plagues written herein; and if any ſhall take away, God ſhall take away his part out of the holy city.</hi> So taking in haſte leave, think of me what ye pleaſe,</p>
+                  <closer>
+                     <signed>Reſt your faithful Friend, ARCH: DOVE. <hi>Elijah.</hi>
+                     </signed>
+                  </closer>
+                  <postscript>
+                     <pb n="18" facs="tcp:46299:10"/>
+                     <p>Likewiſe know, I deſire you not to ſpeak a word of this till the ap<g ref="char:EOLhyphen"/>pointed time, onely have a care in the mean time of your own ſoul; <hi>Acts</hi> 2. <hi>Save your ſelves from this untoward ge<g ref="char:EOLhyphen"/>neration.</hi>
+                     </p>
+                     <closer>
+                        <dateline>From my Lodging at White-Fryers.
+<date>
+                              <hi>Anno</hi> 1638. your Eaſter-Eve.</date>
+                        </dateline>
+                     </closer>
+                  </postscript>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To my much eſteemed worthy Friend, <hi>Iames Sybald,</hi> Miniſter at <hi>Clerkenwel,</hi> this.</head>
+                  <opener>
+                     <salute>Loving Friend,</salute>
+                  </opener>
+                  <p>IT ſeemeth your imployment is very much, for if it were not ſo, or if ye had remembred my deſire, I ſhould have ſeen you according to your Promiſe in two days, after that time ye was with me laſt: Certainly, if ye knew how near the Great Change is, which I ſpoke of, ye would have ſeen me before this: Which unexpected
+<pb n="19" facs="tcp:46299:10"/>Change, whatſoever it be, it being ſo ex<g ref="char:EOLhyphen"/>ceeding near, I requeſt you, whatſoever ye have to do, let me ſee you this after<g ref="char:EOLhyphen"/>noon: But a few words. And likewiſe through <hi>CHRIST</hi> I charge you, not to ſpeak a word of this, until you ſee what <hi>GOD</hi> will do ſhortly; whatſoever it be, unleſs a very Great Change be ſhort<g ref="char:EOLhyphen"/>ly, then think of me what ye will:
+<q xml:lang="lat">Exitus acta probat.</q>
+                  </p>
+                  <p>Ye may believe me, for I think ye know it had been better for the Lord Major of this City, <hi>Anno Dom. 1638.</hi> to have heard me from the <hi>LORD,</hi> then to have had the Plague of <hi>GOD</hi> amongſt them, which came juſt then, how ſoon the ſeven Elected Eldermen did charge me, not to come near them, nor write any more unto them; which did ſo offend <hi>GOD,</hi> as his Plague hath continued
+<pb n="20" facs="tcp:46299:11"/>amongſt them until this day: Therefore do not vilifie my Requeſt. So till I ſee you, Reſt,</p>
+                  <closer>
+                     <dateline>
+                        <date>January 19. <hi>Anno Do.</hi> M.DC.XXXVIII.</date>
+                     </dateline>
+                     <signed>Your faithful Friend, *<hi>Rev.</hi> 2.28. THE MORNING STARRE.</signed>
+                  </closer>
+                  <postscript>
+                     <p>I pray you bring no ſervant with you, near the place where I am; for I am exceeding loth for to be known, to be near the city, until I be ſeen at <hi>Court;</hi> which now God willing will be ſhortly: I am ſure there is none knoweth I am ſo near you, no not one, except my ſervants: Therefore <hi>I</hi> requeſt you let me not be diſcovered by you, nor by your words, con<g ref="char:EOLhyphen"/>cerning the contents of my Letter.</p>
+                     <p>Likewiſe do not think to loſe much time with me, for one ſentence ſhall be ſufficient.</p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="21" facs="tcp:46299:11"/>
+                  <head>To a Meſſenger of the LORDS, Dr. <hi>James Sybald,</hi> Miniſter at <hi>Clerkenwel</hi> at <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> this.</head>
+                  <opener>
+                     <salute>Loving Friend,</salute>
+                  </opener>
+                  <p>MY ſelf, though your Well-wiſher, hath conſtantly been committed willingly within the Chamber and Study where ye left me about two Year ſince: It was not the Lords Will, know hither<g ref="char:EOLhyphen"/>to, that I ſhould write unto you, ſince the 20 of June, <hi>Anno Aetatis, 1638.</hi> Be<g ref="char:EOLhyphen"/>cauſe the Great Change which he moved me to tell you, was to be ſuddenly, know, it was not to be accounted according to the computation of man, but according his own (to wit) it was not plainly to begin, until ſome few days hence, according to our computation; his mercies being above
+<pb n="22" facs="tcp:46299:12"/>all his Works: He gives his very enemies a ſpace of time, for to conſider their own doings, that they might repent. Though now adays moſt of all the men of this world, cannot poſsibly be moved lawfully for to be obedient unto him, nor to be juſt: So ſaith <hi>ELIAS</hi> and verily <hi>ELI<g ref="char:EOLhyphen"/>JAH,</hi> who deſireth you, if you love your ſelf, or your own good, for to come unto him about two a clock this after<g ref="char:EOLhyphen"/>noon: otherwiſe, aſſuredly the <hi>LORD</hi> will not let me do you the good which I intend, who lets you underſtand, none of the unjuſt within this Kingdom be<g ref="char:EOLhyphen"/>fore long will be able to ſtay therein: So think of this, and do which I lawfully deſire for the beſt, till I ſee you.<hi>Vale.</hi> And ſo reſt,</p>
+                  <closer>
+                     <signed>Your faithful Friend, DOUGLASE.</signed> 
+                     <dateline>
+                        <date>Decemb. 19. <hi>Anno Do.</hi> 1639.</date>
+                     </dateline>
+                  </closer>
+                  <postscript>
+                     <pb n="23" facs="tcp:46299:12"/>
+                     <p>From the <hi>JACOBIN</hi> or <hi>Carmeliſtain Fryers,</hi>to wit of old, From the <hi>Carme, Freere, Frater;</hi> as <hi>Fray</hi> may be well applyed truly unto any one of all the many many ſorts of Fryers, whoſe <hi>Fray</hi> hath continued too long; and now, it muſt, it muſt be returned to them.</p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <pb n="24" facs="tcp:46299:13"/>
+            <p> And here happy Readers, with this Manna communicated (to wit) the Divine Propheſies of this Man; know herewith ordain'd and enacted as heretofore, a Rebel againſt the Fa<g ref="char:EOLhyphen"/>ther proclaimed, he that <hi>Deſpiſed the Son;</hi> likewiſe (unable to gainſay it) they a Reprobate Church, <hi>ſitting in the ſeat of Scorners:</hi> which acknow<g ref="char:EOLhyphen"/>ledge not the fulfilling of theſe now, (<hi>John</hi> 16. <hi>All things which the Father hath are mine: Therefore I ſaid, that he ſhall take of mine, and ſhall ſhew it unto you; and he ſhal ſhew you things to come,</hi> as much to ſay, Even manifeſted the truth of thoſe ſacred Myſteries, con<g ref="char:EOLhyphen"/>tained in the <hi>Revelation of Ieſus Chriſt which God gave unto him,</hi> &amp;c. Cap. 1. Things for the future treaſured up, by no other Spirit to be unfolded, but
+<pb n="26" facs="tcp:46299:13"/>by the ſame Spirit of truth, where<g ref="char:EOLhyphen"/>with were written at firſt, or penn'd; and for that purpoſe the ſame poured forth again in the laſt days: And ſo theſe by that Spirit then perſecuted, witneſs <hi>(Rev. xi.) The Beaſt aſcended ont of the bottomleſs Pit,</hi> or Abyſs, one in old <hi>Samuels</hi> likeneſs, Biſhops, &amp;c. Alſo which teſtifies, whoſoever deſpiſeth the Spirit of Prophecy, guil<g ref="char:EOLhyphen"/>ty of all the Blood of the Prophets ſhed: And therefore leſt your ſen<g ref="char:EOLhyphen"/>tence that, <hi>Ye ſtiff necked, &amp;c. ye do al<g ref="char:EOLhyphen"/>ways reſiſt the holy Ghoſt: as your fa<g ref="char:EOLhyphen"/>thers did, ſo do ye</hi> (Acts 7.) provoke him not, who is <hi>a conſuming fire,</hi> ac<g ref="char:EOLhyphen"/>cording to their works, Iew and Gen<g ref="char:EOLhyphen"/>tile both high-minded, who rewards them, as referred to the prophet <hi>Malachi,</hi> accompanied with what
+<pb n="26" facs="tcp:46299:14"/>judgements (cap. 4.) when that bleſ<g ref="char:EOLhyphen"/>ſed time, ariſing with <hi>healing in his Wings,</hi> (ver. 2.) the meek dove Meſ<g ref="char:EOLhyphen"/>ſenger of peace, diſplaying her gold<g ref="char:EOLhyphen"/>en feathers, as the <hi>lightning out of the Eaſt ſhineth even unto the Weſt</hi> (Mat. 24.) the Spirit of Propheſie vouchſa<g ref="char:EOLhyphen"/>ſing a viſit, abſent from the Church ſo long comfortleſs, ſaying, <hi>I have the Keys of Death and Hell,</hi> a Scepter of ſeven Stars in whoſe right hand (<hi>Re. cap.</hi> 1.) pointing to times Myſtery, the preſent Century, and at this time ſo much for admoniſhing all: <hi>He that hath an ear, let him hear, &amp;c.</hi> and fare him well that will not; a ſtory by whom related of <hi>Alexander the Great,</hi> &amp;c. on the Scaffold, as well might have told a tale of his Horſe.</p>
+            <closer>
+               <dateline>Theſe from <hi>Whitehall,</hi> ſometime <hi>Wolſeys</hi> the Cardinal. <date>Febr. 1648.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46299:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
